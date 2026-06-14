@@ -303,7 +303,7 @@ export default function GymSplit() {
         </div>
 
         {/* Completion */}
-        {pct === 100 && (
+        {pct === 110 && (
           <div style={{
             marginTop: "44px",
             padding: "16px 20px",
